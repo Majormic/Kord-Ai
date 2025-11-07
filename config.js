@@ -21,7 +21,7 @@ module.exports = {
     BOT_PRESENCE: process.env.BOT_PRESENCE || "available",
     REACT: process.env.REACT || false,
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
-    OWNER_NAME: process.env.OWNER_NAME || "MajorMic︻╦デ╤╾━",
+    OWNER_NAME: process.env.OWNER_NAME || "MajorMic",
     BOT_NAME: process.env.BOT_NAME || "Kord",
     RENDER_API_KEY: process.env.RENDER_API_KEY,
     ANTIDELETE: process.env.ANTIDELETE || "on",
